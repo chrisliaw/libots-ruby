@@ -1,7 +1,9 @@
 # Ots::Ruby
 
 This repository is attempt to collect One Time Signature (OTS) scheme in a single library.
+
 However currently only has the basic Lamport OTS is implemented.
+
 For any interested party continue with Winternitz, Winternitz OTS+ (WOTS+)?
 
 ## Installation
