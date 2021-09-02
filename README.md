@@ -6,7 +6,7 @@ However currently only has the basic Lamport OTS is implemented.
 
 For any interested party continue with Winternitz, Winternitz OTS+ (WOTS+)?
 
-I benefit greatly for great blogger like [Matthew Green](https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/), [David Wong](https://cryptoservices.github.io/quantum/2015/12/04/one-time-signatures.html), [Zachary Ratliff](https://zacharyratliff.org/Lamport-Signatures/)! 
+I benefit greatly for great blogger like [Matthew Green](https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/), [David Wong](https://cryptoservices.github.io/quantum/2015/12/04/one-time-signatures.html), [Zachary Ratliff](https://zacharyratliff.org/Lamport-Signatures/) to clear up the concept for me! 
 
 
 ## Installation
